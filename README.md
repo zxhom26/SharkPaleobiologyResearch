@@ -16,7 +16,7 @@
 - A **non-linear** statistical dimension reduction method to better identify similarities between observations with multiple attributes.
 ## Step 5
 ### Plot Data and Interpret Results
-- A comparison between performance of two dimension reduction techniques
+- A comparison between performance of two dimension reduction techniques using two model performance metrics: silhouette score and trustworthiness score. 
 ## Packages Used 
 - `OpenCV`: computer vision for image processing
 - `pyEFD`: elliptical fourier analysis, normalization, and contour reconstruction
